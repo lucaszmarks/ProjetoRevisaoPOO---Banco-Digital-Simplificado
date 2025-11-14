@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProjetoRevisaoPOO
+﻿namespace ProjetoRevisaoPOO
 {
     abstract class Conta
     {
@@ -13,21 +7,20 @@ namespace ProjetoRevisaoPOO
         public int agencia { get; set; }
         public Cliente cliente { get; set; }
 
-        protected Conta(int numeroConta, int agencia, Cliente cliente)
+        public Conta(int numeroConta, int agencia, Cliente cliente)
         {
             this.numeroConta = numeroConta;
             this.agencia = agencia;
             this.cliente = cliente;
         }
 
-        public void depositar(double quantidade)
+        public void Depositar(double valor)
         {
-            this.saldo += quantidade;
+            saldo += valor;
         }
-        public void sacar(double quantidade)
-        {
-            this.saldo -= quantidade;
-        }
+        public abstract void Sacar(double valor);
+        
+        
 
     }
 

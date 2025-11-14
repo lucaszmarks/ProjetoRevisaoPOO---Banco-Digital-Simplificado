@@ -1,0 +1,15 @@
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\bin\Debug\net8.0\ProjetoRevisaoPOO.exe
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\bin\Debug\net8.0\ProjetoRevisaoPOO.deps.json
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\bin\Debug\net8.0\ProjetoRevisaoPOO.runtimeconfig.json
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\bin\Debug\net8.0\ProjetoRevisaoPOO.dll
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\bin\Debug\net8.0\ProjetoRevisaoPOO.pdb
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.AssemblyInfoInputs.cache
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.AssemblyInfo.cs
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.csproj.CoreCompileInputs.cache
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.sourcelink.json
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.dll
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\refint\ProjetoRevisaoPOO.dll
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.pdb
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.genruntimeconfig.cache
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ref\ProjetoRevisaoPOO.dll
