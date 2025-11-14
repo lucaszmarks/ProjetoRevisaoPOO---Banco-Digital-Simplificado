@@ -2,11 +2,9 @@
 {
     internal class Cliente
     {
-        public string nome { get; set; }
-        public int cpf { get; set; }
+        public string Nome { get; set; }
+        public string Cpf { get; set; }
 
-        public Cliente()
-        {
-        }
+        
     }
 }

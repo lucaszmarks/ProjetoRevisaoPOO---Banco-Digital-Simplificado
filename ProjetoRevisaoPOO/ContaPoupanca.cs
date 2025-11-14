@@ -7,11 +7,11 @@
         }
 
 
-        public override void Sacar(double valor)
+        public override void Sacar(decimal valor)
         {
-            if (valor <= saldo)
+            if (valor <= Saldo)
             {
-                saldo -= valor;
+                Saldo -= valor;
             }
             else
             {

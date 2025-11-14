@@ -2,23 +2,23 @@
 {
     abstract class Conta
     {
-        public double  saldo { get; protected set; }
-        public int numeroConta { get; set; }
-        public int agencia { get; set; }
-        public Cliente cliente { get; set; }
+        public decimal  Saldo { get; protected set; }
+        public int NumeroConta { get; set; }
+        public int Agencia { get; set; }
+        public Cliente Cliente { get; set; }
 
         public Conta(int numeroConta, int agencia, Cliente cliente)
         {
-            this.numeroConta = numeroConta;
-            this.agencia = agencia;
-            this.cliente = cliente;
+            this.NumeroConta = numeroConta;
+            this.Agencia = agencia;
+            this.Cliente = cliente;
         }
 
-        public void Depositar(double valor)
+        public void Depositar(decimal valor)
         {
-            saldo += valor;
+            Saldo += valor;
         }
-        public abstract void Sacar(double valor);
+        public abstract void Sacar(decimal valor);
         
         
 

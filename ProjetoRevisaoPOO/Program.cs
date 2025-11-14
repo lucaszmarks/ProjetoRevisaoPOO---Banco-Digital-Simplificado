@@ -8,9 +8,9 @@ namespace MyApp
         {
             Cliente cliente = new Cliente();
             Console.Write("Digite seu nome: ");
-            cliente.nome = Console.ReadLine();
+            cliente.Nome = Console.ReadLine();
             Console.Write("Digite seu cpf: ");
-            cliente.cpf = int.Parse(Console.ReadLine());
+            cliente.Cpf = Console.ReadLine();
             Console.Write("Digite o número da conta: ");
             int numConta = int.Parse(Console.ReadLine());
             Console.Write("Digite o número da agência: ");
@@ -18,17 +18,17 @@ namespace MyApp
             ContaCorrente conta1 = new ContaCorrente(numConta, agencia,cliente);
             ContaPoupanca conta2 = new ContaPoupanca(numConta,agencia,cliente);
             Console.Write("Digite o valor do deposito: ");
-            double valor = double.Parse(Console.ReadLine());
+            decimal valor = decimal.Parse(Console.ReadLine());
             conta1.Depositar(valor);
             conta2.Depositar(valor);
-            Console.WriteLine(conta1.saldo);
-            Console.WriteLine(conta2.saldo);
+            Console.WriteLine(conta1.Saldo);
+            Console.WriteLine(conta2.Saldo);
             Console.Write("Digite o valor do saque: ");
-            valor = double.Parse(Console.ReadLine());
+            valor = decimal.Parse(Console.ReadLine());
             conta1.Sacar(valor);
             conta2.Sacar(valor);
-            Console.WriteLine(conta1.saldo);
-            Console.WriteLine(conta2.saldo);
+            Console.WriteLine(conta1.Saldo);
+            Console.WriteLine(conta2.Saldo);
 
 
 

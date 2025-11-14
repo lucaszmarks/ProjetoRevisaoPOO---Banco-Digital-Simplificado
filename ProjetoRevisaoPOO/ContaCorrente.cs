@@ -7,12 +7,12 @@
         }
 
 
-        public override void Sacar(double valor)
+        public override void Sacar(decimal valor)
         {
-            double taxa = 15;
-            if (valor + taxa <= this.saldo)
+            decimal taxa = 15;
+            if (valor + taxa <= this.Saldo)
             {
-                saldo -= valor + taxa;
+                Saldo -= valor + taxa;
             }
             else
             {
