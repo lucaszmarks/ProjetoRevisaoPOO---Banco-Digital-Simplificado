@@ -2,9 +2,13 @@
 {
     internal class Cliente
     {
-        public string Nome { get; set; }
-        public string Cpf { get; set; }
+        public string Nome { get; protected set; }
+        public string Cpf { get; protected set; }
 
-        
+        public Cliente(string nome, string cpf)
+        {
+            Nome = nome;
+            Cpf = cpf;
+        }
     }
 }

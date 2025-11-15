@@ -7,16 +7,18 @@
         }
 
 
-        public override void Sacar(decimal valor)
+        public override bool Sacar(decimal valor)
         {
             decimal taxa = 15;
             if (valor + taxa <= this.Saldo)
             {
                 Saldo -= valor + taxa;
+                return true;
             }
             else
             {
                 Console.WriteLine("Saldo Indisponível");
+                return false;
             }
         }
     }

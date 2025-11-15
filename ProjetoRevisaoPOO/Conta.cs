@@ -18,7 +18,17 @@
         {
             Saldo += valor;
         }
-        public abstract void Sacar(decimal valor);
+        public abstract bool Sacar(decimal valor);
+
+        public void Transferir(decimal valor, Conta contaRecebe)
+        {
+            bool saqueFunciona =this.Sacar(valor);
+            if (saqueFunciona == true)
+            {
+                contaRecebe.Depositar(valor);
+            }
+
+        }
         
         
 
