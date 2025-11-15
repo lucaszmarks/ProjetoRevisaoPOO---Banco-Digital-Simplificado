@@ -13,3 +13,6 @@ F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\refint\ProjetoRevisao
 F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.pdb
 F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.genruntimeconfig.cache
 F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ref\ProjetoRevisaoPOO.dll
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoRevisaoPOO.csproj.AssemblyReference.cache
+F:\C#\ProjetoRevisaoPOO\ProjetoRevisaoPOO\obj\Debug\net8.0\ProjetoR.9AFD0B71.Up2Date

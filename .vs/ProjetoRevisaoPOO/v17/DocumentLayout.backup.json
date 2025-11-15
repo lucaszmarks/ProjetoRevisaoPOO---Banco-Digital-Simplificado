@@ -30,8 +30,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -42,8 +50,7 @@
               "RelativeToolTip": "ProjetoRevisaoPOO\\ContaPoupanca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T00:31:52.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T00:31:52.776Z"
             },
             {
               "$type": "Document",
@@ -55,8 +62,7 @@
               "RelativeToolTip": "ProjetoRevisaoPOO\\ContaCorrente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T00:20:07.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T00:20:07.302Z"
             },
             {
               "$type": "Document",
@@ -68,8 +74,7 @@
               "RelativeToolTip": "ProjetoRevisaoPOO\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T23:40:02.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T23:40:02.107Z"
             },
             {
               "$type": "Document",
@@ -81,8 +86,7 @@
               "RelativeToolTip": "ProjetoRevisaoPOO\\Conta.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAwwBkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T23:28:52.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T23:28:52.533Z"
             },
             {
               "$type": "Document",
@@ -92,18 +96,10 @@
               "RelativeDocumentMoniker": "ProjetoRevisaoPOO\\Program.cs",
               "ToolTip": "F:\\C#\\ProjetoRevisaoPOO\\ProjetoRevisaoPOO\\Program.cs",
               "RelativeToolTip": "ProjetoRevisaoPOO\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T23:18:58.789Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
